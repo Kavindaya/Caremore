@@ -11,10 +11,35 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;   
+    
 }
 
 .all {
     font-family:Josefin Sans;
+    
 }
 
- 
+.title{
+ color:white;
+} 
+
+.subtitle{
+    color:blue;
+}
+
+.p {
+    color:black;
+}
+
+.bluebutton{
+    background-color: blue;
+    padding-left:20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    color:white;   
+}
+
+.fontfamily{
+    font-family:Josefin Sans;
+}
